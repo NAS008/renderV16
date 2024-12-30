@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "renderV16 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "renderV16 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
